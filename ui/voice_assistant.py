@@ -1,7 +1,3 @@
-"""
-VisionAssist - COMPLETE CLEAN VOICE_ASSISTANT.PY
-Copy this ENTIRE file and replace ui/voice_assistant.py
-"""
 import streamlit as st
 from services.ai_service import AIAssistant
 from services.speech_service import SpeechService

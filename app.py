@@ -1,6 +1,7 @@
 """
-VisionAssist - COMPLETE CLEAN APP.PY
-Copy this ENTIRE file and replace your app.py
+Sadhana Paladugu
+sadhana.paladugu@gmail.com
+VisionAssist Lost-Found AI Application
 """
 import warnings
 warnings.filterwarnings("ignore", category=DeprecationWarning)

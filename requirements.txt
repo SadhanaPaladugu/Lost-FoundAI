@@ -1,16 +1,4 @@
 # Lost & Found AI Assistant - Requirements
-
-# ultralytics>=8.0.0
-# streamlit>=1.28.0
-# opencv-python>=4.8.0
-# numpy>=1.24.0
-# Pillow>=10.0.0
-# pandas>=2.0.0
-# speechrecognition>=3.10.0
-# gtts>=2.4.0
-# pyaudio>=0.2.11
-
-
 streamlit>=1.28.0
 ultralytics>=8.0.0
 opencv-python>=4.8.0
@@ -21,3 +9,5 @@ SpeechRecognition>=3.10.0
 pygame>=2.5.0
 torch>=2.0.0
 PyAudio>=0.2.11
+openai>=1.0.0
+
